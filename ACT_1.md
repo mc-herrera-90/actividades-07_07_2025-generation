@@ -1,4 +1,4 @@
-# ✅ ACTIVIDAD 1 – ¿Esto es una web o una app web?
+<h1 align="center">ACTIVIDAD 1<br/>¿Esto es una web o una app web?</h1>
 
 **🎯 Objetivo:**  
 Comprender la diferencia entre un **sitio web estático** y una **aplicación web interactiva**, a partir de ejemplos, análisis y reflexión sobre tecnologías web modernas.
