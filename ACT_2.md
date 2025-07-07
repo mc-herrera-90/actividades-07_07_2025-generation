@@ -26,7 +26,7 @@ Es el sistema que **almacena y organiza la información**. Puede ser relacional 
 A continuación se muestra un diagrama que representa cómo se conectan los tres componentes principales de una aplicación web moderna.
 
 ```mermaid
-flowchart TD
+flowchart
   Usuario --> Frontend
   Frontend --> Backend
   Backend --> BaseDeDatos
