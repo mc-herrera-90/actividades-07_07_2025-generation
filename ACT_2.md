@@ -31,8 +31,6 @@ graph TD
     A --> B[🌐 Frontend (React/Vue)]
     B --> C[🛠️ Backend (API REST - Spring Boot)]
     C --> D[🗄️ Base de datos (MySQL/PostgreSQL)]
-
-    style B fill:#EAF6FF,stroke:#2980b9
-    style C fill:#FFF4E6,stroke:#f39c12
-    style D fill:#F0FFF0,stroke:#27ae60
 ```
+
+
