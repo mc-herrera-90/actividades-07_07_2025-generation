@@ -59,6 +59,6 @@ Este repositorio contiene el desarrollo de todas las actividades realizadas en e
 
 ## 📬 Contacto
 
-email: [contacto@mcherrera.dev](contacto@mcherrera.dev)  
-web: [mcherrera.dev](mcherrera.dev) 
+email: [contacto@mcherrera.dev](mailto:contacto@mcherrera.dev)  
+web: [mcherrera.dev](https://mcherrera.dev) 
 
