@@ -26,12 +26,12 @@ Es el sistema que **almacena y organiza la información**. Puede ser relacional 
 A continuación se muestra un diagrama que representa cómo se conectan los tres componentes principales de una aplicación web moderna.
 
 ```mermaid
-flowchart
-  Usuario --> Frontend
-  Frontend --> Backend
-  Backend --> BaseDeDatos
-
-  Frontend[Frontend (HTML, CSS, JS)]
-  Backend[Backend (Spring Boot, API REST)]
-  BaseDeDatos[Base de datos (MySQL, PostgreSQL)]
+flowchart TD
+    A["🧑‍💻 Usuario"]
+    A --> B["💻 Frontend (HTML, CSS, JS, React)"]
+    B --> C["🧠 Backend (Spring Boot, API REST)"]
+    C --> D["🗄️ Base de Datos (MySQL / PostgreSQL)"]
+    C --> E["☁️ Servicios Externos (APIs, Cloud)"]
+    C --> F["🔐 Autenticación (JWT / OAuth)"]
 ```
+
