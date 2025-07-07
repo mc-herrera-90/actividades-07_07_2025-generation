@@ -63,7 +63,7 @@ Una aplicación web interactiva:
 - [x] Maneja autenticación y roles de usuario  
 - [x] Guarda datos en **bases de datos** y los recupera en tiempo real
 
-### 🧪 Tecnologías detrás:
+### Tecnologías detrás:
 
 - **Frontend**: JavaScript, React, Vue, Angular  
 - **Backend**: Node.js, Spring Boot, Django, Laravel  
@@ -72,7 +72,7 @@ Una aplicación web interactiva:
 
 ---
 
-## 📊 Diagrama comparativo (Mermaid)
+## Diagrama comparativo 
 
 ```mermaid
 flowchart LR
