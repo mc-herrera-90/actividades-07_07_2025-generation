@@ -27,10 +27,13 @@ A continuación se muestra un diagrama que representa cómo se conectan los tres
 
 ```mermaid
 graph TD
-    A[👨‍💻 Usuario]
-    A --> B[🌐 Frontend (React/Vue)]
-    B --> C[🛠️ Backend (API REST - Spring Boot)]
-    C --> D[🗄️ Base de datos (MySQL/PostgreSQL)]
+  Usuario --> Frontend
+  Frontend --> Backend
+  Backend --> BaseDeDatos
+
+  Frontend[Frontend (HTML, CSS, JS)]
+  Backend[Backend (Spring Boot, API REST)]
+  BaseDeDatos[Base de datos (MySQL, PostgreSQL)]
 ```
 
 
