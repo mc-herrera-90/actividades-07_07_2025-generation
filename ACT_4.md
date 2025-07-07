@@ -20,7 +20,7 @@ Existen muchas etiquetas y cada una se utiliza para contener información y darl
 
 ![Etiqueta HTML](imgs/etiqueta_html.png)
 
-> [!NOTA]
+> [!IMPORTANT]
 > Sin HTML, el navegador no sabe qué mostrar.
 
 ### 🎨 CSS (Cascading Style Sheets)
@@ -34,7 +34,7 @@ h1 {
 }
 ```
 
-> [!NOTA]
+> [!IMPORTANT]
 > Sin CSS, todo se ve plano y sin diseño.
 
 ### ⚙️ JavaScript
@@ -47,7 +47,7 @@ document.querySelector("h1").onclick = () => {
 }
 ```
 
-> [!NOTA]
+> [!IMPORTANT]
 > Sin JavaScript, la página no reacciona al usuario
 
 ## Paso 2: Comparación entre Java y JavaScript
@@ -60,5 +60,5 @@ document.querySelector("h1").onclick = () => {
 | Uso principal    | Aplicaciones de escritorio, backend              | Web: frontend y backend con Node.js |
 | Relación         | ¡El nombre es casual! Son tecnologías diferentes |                                     |
 
-> [!NOTA]
+> [!NOTE]
 > Aunque sus nombres suenan parecidos, Java y JavaScript no están directamente relacionados. Uno es más usado en sistemas grandes y backend, el otro es esencial para la web.
